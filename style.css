@@ -622,3 +622,20 @@
             border-radius: 4px;
         }
     
+        footer {
+  background-color: #111;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.social-links a {
+  color: white;
+  font-size: 24px;
+  margin: 0 10px;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.social-links a:hover {
+  color: #f39c12; /* change this color if you want */
+}
